@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-metcast/static/css/main.18c12191.css",
+    "main.js": "/weather-metcast/static/js/main.6d52c70c.js",
+    "static/media/sun.png": "/weather-metcast/static/media/sun.4d828e37dc5868ff7485.png",
+    "static/media/badweather.jpeg": "/weather-metcast/static/media/badweather.e4597816e2bc4b2f228c.jpeg",
+    "index.html": "/weather-metcast/index.html",
+    "main.18c12191.css.map": "/weather-metcast/static/css/main.18c12191.css.map",
+    "main.6d52c70c.js.map": "/weather-metcast/static/js/main.6d52c70c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c12191.css",
+    "static/js/main.6d52c70c.js"
+  ]
+}
